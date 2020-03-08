@@ -12,7 +12,7 @@ Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 
 ## Preparando o ambiente (Ubuntu 18.04LTS)
 
-### [Máquinas-virtuais com acesso a GPU é possível com VmWare ESXi](GPU_vmware_passthrough.md)
+### [(Somente GPU e VM) Máquinas-virtuais com acesso a GPU é possível com VmWare ESXi](GPU_vmware_passthrough.md)
 Habilite o Passthrough no ESXi, adicione o dispositivo PCIe na sua VM e desabilite o parâmetro 'Hypervisor.CPUID.v0'.
 
 ### [Configure os drivers NVidia (GPU)](GPU_nvidia_setup.md)
