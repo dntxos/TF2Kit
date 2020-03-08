@@ -3,7 +3,9 @@ Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 
 ## Por que nao Windows?
 Nvidia-docker nao suporta o sistema operacional Windows. Alem do Hyper-V nao suportar GPU Passthrough, o docker no modo native tambem nao suporta.
+
 [Leia mais aqui](https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#is-microsoft-windows-supported)
+
 [Discussao](https://github.com/NVIDIA/nvidia-docker/issues/665)
 
 ## Preparando o ambiente (Ubuntu 18.04LTS)
