@@ -19,7 +19,4 @@ Comece instalando os drivers da placa de video
 Adicione os repositorios oficiais DOCKER e instale a versao mais recente.
 
 ## [Instalando Nvidia-Docker](GPU_nvidia_docker_setup.md)
-Adicione os repositórios de pacotes 'nvidia-docker', reinicie o serviço docker e teste um container com acesso a GPU com o 'nvidia-smi' baseado na última imagem oficial do CUDA.
-
-
-
+Adicione os repositórios de pacotes 'nvidia-docker', instale o nvidia-docker, reinicie o serviço docker e teste um container com acesso a GPU com o 'nvidia-smi' baseado na última imagem oficial do CUDA.
