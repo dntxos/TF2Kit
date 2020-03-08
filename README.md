@@ -9,6 +9,11 @@ Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 * [Stanford.edu - 'CS231n: Convolutional Neural Networks for Visual Recognition
 '](http://cs231n.stanford.edu/index.html)
 
+### Livros:
+* [(PDF) Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition-2019](https://github.com/dntxos/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
+* [Deep Learning with Python - François Chollet](https://www.manning.com/books/deep-learning-with-python)
+* [Mais...](https://github.com/dntxos/Deep-learning-books)
+
 ## Preparando o ambiente (Ubuntu 18.04LTS)
 
 ### [Máquinas-virtuais com acesso a GPU é possível com VmWare ESXi (Somente para configurações com VM e GPU)](GPU_vmware_passthrough.md)
