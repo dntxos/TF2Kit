@@ -35,7 +35,7 @@ Adicione os repositórios de pacotes 'nvidia-docker', instale o nvidia-docker, r
 >
 >[Discussão(Em inglês)](https://github.com/NVIDIA/nvidia-docker/issues/665) / [(Traduzido automaticamente)](https://translate.google.com/translate?sl=auto&tl=pt&u=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fnvidia-docker%2Fissues%2F665)
 
-## Utilizando containers oficiais do Tensorflow 2.0.1
+## Utilizando imagens oficiais do Tensorflow 2.0.1 para Docker
 O projeto TensorFlow possui imagens oficiais no DockerHub já configuradas para executar o Tensorflow. Um container docker roda em um ambiente virtual e é a maneira mais fácil de configurar suporte a GPU, já que todo o conjunto de bibliotecas (Cuda, Cudnn, TensorRT, etc) vem instaladas e configuradas na imagem pública.
 
 ### [Docker - Tensorflow 2.0.1 Cheats (Somente para configurações com GPU)](GPU_docker_tensorflow_cheats.md)
