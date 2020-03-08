@@ -32,4 +32,9 @@ O projeto TensorFlow possui imagens oficiais no DockerHub já configuradas para 
 
 > Utilize 'Tensorflow 2.0.1 Cheats' acima para iniciar seus containeres de acordo com suas necessidades.
 
+## Jupyter Notebooks:
+### [Retreinando classificador de imagens com TF2 e TF Hub (Em português)](Notebooks/Retreinando_classificador_de_imagens_com_TF2_e_TF_Hub.ipynb)
 
+### [TF Hub for TF2: Retraining an image classifier (Em inglês)](https://github.com/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb)
+
+### [UDACITY Free Course - 'TensorFlow Hub and Transfer Learning' (Em inglês)](https://github.com/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l06c01_tensorflow_hub_and_transfer_learning.ipynb)
