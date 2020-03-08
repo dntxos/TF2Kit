@@ -1,8 +1,8 @@
 # TFKIT201 (Ubuntu 18.04LTS)
 Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 
-## Por que não no Windows?
-Nvidia-docker não suporta sistema operacional Windows. Além do Hyper-V não suportar GPU Passthrough, o docker no modo 'native' também não suporta.
+>## Não há suporte para GPUs do nvidia-docker para Windows
+>Esses scripts são baseados no docker e atualmente Nvidia-docker não suporta sistema operacional Windows. Além do Hyper-V não suportar GPU Passthrough, o docker no modo 'native' também não suporta.
 
 [Leia mais aqui(Em inglês)](https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#is-microsoft-windows-supported) / [(Traduzido automaticamente)](https://translate.google.com.br/translate?hl=pt-BR&sl=auto&tl=pt&u=https%3A%2F%2Fgithub.com%2FNVIDIA%2Fnvidia-docker%2Fwiki%2FFrequently-Asked-Questions%23is-microsoft-windows-supported)
 
@@ -11,6 +11,9 @@ Nvidia-docker não suporta sistema operacional Windows. Além do Hyper-V não su
 ---
 
 ## Preparando o ambiente (Ubuntu 18.04LTS)
+
+### [Máquinas-virtuais com acesso a GPU é possível com VmWare ESXi](GPU_vmware_passthrough.md)
+Habilite o Passthrough no ESXi, adicione o dispositivo PCIe na sua VM e desabilite o parâmetro 'Hypervisor.CPUID.v0'.
 
 ### [Configure os drivers NVidia (GPU)](GPU_nvidia_setup.md)
 Comece instalando os drivers da placa de video
