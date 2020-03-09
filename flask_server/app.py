@@ -21,8 +21,6 @@ labels_directory_path = "./labels/"
 # Descomente essa linha caso precise realizar chamadas CROSS ORIGIN (CORS)
 CORS(app)
 
-
-
 @app.route('/<string:model>/predict/', methods=['POST'])
 def image_classifier(model):
     url = tensorflow_serving_url + tensorflow_serving_model_version + "/models/"+model+":predict"
