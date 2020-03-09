@@ -24,7 +24,7 @@ Habilite o Passthrough no ESXi e adicione o dispositivo PCIe na sua VM.
 Comece instalando os drivers da placa de video
 
 ### [Instalando o Docker](docker_setup.md)
-Adicione os repositorios oficiais DOCKER e instale a versao mais recente.
+Adicione os repositórios oficiais DOCKER e instale a versão mais recente.
 
 ### [Instalando Nvidia-Docker (Somente para configurações com GPU)](GPU_nvidia_docker_setup.md)
 Adicione os repositórios de pacotes 'nvidia-docker', instale o nvidia-docker, reinicie o serviço docker e teste um container com acesso a GPU com o 'nvidia-smi' baseado na última imagem oficial do CUDA.
