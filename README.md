@@ -5,7 +5,7 @@ Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 ---
 ## Acha que precisa se preparar um pouquinho?
 ### Cursos on-line:
-* [ **GRATUÍTO** 'UDACITY - Intro to TensorFlow for Deep Learning'](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+* [ **GRATUITO** 'UDACITY - Intro to TensorFlow for Deep Learning'](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 * [Coursera - 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning'](https://www.coursera.org/learn/introduction-tensorflow)
 * [Stanford.edu - 'CS231n: Convolutional Neural Networks for Visual Recognition
 '](http://cs231n.stanford.edu/index.html)
