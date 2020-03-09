@@ -29,7 +29,7 @@ sudo docker run -p 8501:8501 -v /localpath/to/models_folder:/models/flowers -e M
 ---
 
 ## Compilando uma versão otimizada para o hardware empregado
-Para aproveitar o máximo possível dos recursos disponíveis na máquina, é recomendado compilar o software otimizando para utilizar instruções específicas da sua plataforma (como SSE4 e AVX)
+Para aproveitar o máximo possível dos recursos disponíveis na máquina, é recomendado compilar o software otimizando para utilizar instruções específicas da sua plataforma (como SSE4 e AVX).
 A abordagem recomendada para compilar a partir dos 'fontes' é utilizando o Docker. As imagens de desenvolvimento do TensorFlow Serving Docker encapsulam todas as dependências necessárias para criar sua própria versão do TensorFlow Serving.
 
 > Nota: Atualmente, TensorflowServing oferece suporte apenas à compilação de binários executados no Linux.
