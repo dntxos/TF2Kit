@@ -3,7 +3,7 @@
 Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 
 ---
-## Precisa se preparar um pouquinho?
+## Acha que precisa se preparar um pouquinho?
 ### Cursos on-line:
 * [ **GRATUÍTO** 'UDACITY - Intro to TensorFlow for Deep Learning'](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 * [Coursera - 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning'](https://www.coursera.org/learn/introduction-tensorflow)
