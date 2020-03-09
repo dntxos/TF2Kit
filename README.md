@@ -53,4 +53,14 @@ O projeto TensorFlow possui imagens oficiais no DockerHub já configuradas para 
 * [TF Hub for TF2: Retraining an image classifier (Em inglês)](https://github.com/tensorflow/hub/blob/master/examples/colab/tf2_image_retraining.ipynb)
 
 * ['TensorFlow Hub and Transfer Learning - from Udacity Free Course' (Em inglês)](https://github.com/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l06c01_tensorflow_hub_and_transfer_learning.ipynb)
-:
+
+## Servindo e consumindo modelos em ambiente de produção
+Depois de treinar e testar seu modelo customizado, chegou a hora de utilizá-lo em produção. Existem inúmeras maneiras de servir e consumir seus modelos treinados, sendo TFX (TensorFlowServing) o mais indicado para a maioria dos cenários.
+
+### [TFX/Tensorflow Serving](tensorflow_serving.md)
+O TensorFlow Serving fornece integração imediata com os modelos TensorFlow e pode ser facilmente estendido para atender outros tipos de modelos e dados.
+
+### [Flask Server (Ponte para Tensorflow Serving)](flask_server)
+Sirva uma API Restful de alto nível como interface para consumir seus modelos no Tensorflow/Serving.
+
+
