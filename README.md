@@ -1,3 +1,4 @@
+![IMG](images/tf2logo.png)
 # TFKIT201 (Ubuntu 18.04LTS)
 Conjunto de ferramentas, receitas e scripts voltado ao Tensorflow 2.0.1
 
